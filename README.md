@@ -1,1 +1,1 @@
-# RGB_steganography
+RGB 코드를 이용한 스테가노그래피 프로그램으로 RSA 암호화가 첨부됨.
